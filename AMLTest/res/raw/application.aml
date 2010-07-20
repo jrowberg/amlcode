@@ -1,0 +1,14 @@
+<aml id="amlTestInput" scroll="yes">
+  <input type="button">Test Button</input>
+  <input type="checkbox">Test CheckBox</input>
+  <input type="togglebutton" checked="yes" />
+  <input type="imagebutton" image="icon" />
+  <input type="text">Test Text</input>
+  <input type="password">Test Password</input>
+  <radiogroup>
+    <input type="radiobutton" checked="yes">Radio Button 1</input>
+    <input type="radiobutton">Radio Button 2</input>
+    <input type="radiobutton">Radio Button 3</input>
+  </radiogroup>
+  <input type="button" tap=".back()">Exit</input>
+</aml>		
