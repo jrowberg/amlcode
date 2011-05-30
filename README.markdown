@@ -1,7 +1,7 @@
 What is Application Markup Language?
 ====================================
 
-Application Markup Language, or AML, is a simple XML-based language that allows you to easily build a clean, functional application for your mobile device. The AML library implementation is open-source, and doesn't require any imports from your package to work. AML doesn't require you to know the details of how the mobile device builds its views. It doesn't depend on some extra plugin installed on your device, and it doesn’t run your app code through another service.
+Application Markup Language, or AML, is a simple XML-based language that allows you to easily build a clean, functional application for your mobile device. The AML library implementation is open-source, and doesn't require any imports from your package to work. AML doesn't require you to know the details of how the mobile device builds its views. It doesn't depend on some extra plugin installed on your device, and it doesn't run your app code through another service.
 
 AML uses markup from files statically bundled with your application code or dynamically pulled from a web service for both the data and the application design and behavior, allowing rapid design changes and the ability to use the mobile device as a thin client while still using the native UI.
 
